@@ -17,6 +17,6 @@ class InsertionSort {
         sortEmployeeIDs(employee_id);
         for(int i:employee_id){
             System.out.print(i+" ");
-        }
+        } 
     }
 }
